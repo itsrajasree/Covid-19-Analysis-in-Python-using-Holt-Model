@@ -1,6 +1,5 @@
 # Covid-19-Analysis-in-Python-using-Holt-Model
 Analysis of the Covid-19 data to check the spread of the pandemic and growth in the number of cases reported. Also this analysis help to forecast the spread of the disease.
-
 1. Data Preprocessing
 In the packet, initially the data is loaded into the notebook and before starting the analysis, the data is preprocessed. The null values, unused columns, etc. are deleted from the dataset.
 
